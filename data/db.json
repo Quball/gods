@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "User": 5
+  },
+  "models": {
+    "User": {
+      "1": "{\"id\":1,\"title\":\"Mr.\",\"firstName\":\"Someone\",\"lastName\":\"Aftername\",\"country\":\"africa\"}",
+      "2": "{\"title\":\"string\",\"firstName\":\"string\",\"lastName\":\"string\",\"id\":2}",
+      "3": "{\"title\":\"string\",\"firstName\":\"string\",\"lastName\":\"string\",\"id\":3}",
+      "4": "{\"title\":\"Mrs\",\"firstName\":\"Someone\",\"lastName\":\"string\",\"country\":\"France\",\"id\":4}"
+    }
+  }
+}
